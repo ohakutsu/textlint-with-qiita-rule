@@ -2,6 +2,8 @@
 
 :warning: This repository is not an official Qiita.
 
+The rules for prh are in https://github.com/ohakutsu/prh-rule-qiita.
+
 ## Usage
 
 1. Clone this repository and initialize submodule.
