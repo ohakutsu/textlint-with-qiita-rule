@@ -1,0 +1,3 @@
+[submodule "rules"]
+	path = rules
+	url = https://github.com/ohakutsu/prh-rule-qiita.git
