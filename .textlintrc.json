@@ -1,3 +1,7 @@
 {
-  "rules": {}
+  "rules": {
+    "prh": {
+      "rulePaths": ["./rules/prh-rules/qiita.yml"]
+    }
+  }
 }

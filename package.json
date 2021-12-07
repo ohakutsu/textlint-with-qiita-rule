@@ -13,7 +13,8 @@
     "url": "https://github.com/ohakutsu/textlint-with-qiita-rule.git"
   },
   "scripts": {
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "textlint": "textlint contents/sample.md"
   },
   "devDependencies": {
     "prettier": "^2.5.1",
